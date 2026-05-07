@@ -2,7 +2,7 @@
 
 A production-ready terminal dashboard for Berlin public transport (BVG), built with Go and the Bubble Tea framework.
 
-![BVG SmartScreen Screenshot](screenshot.jpg)
+![BVG SmartScreen Screenshot](bvg-smartscreen.jpeg)
 
 ## Features
 
